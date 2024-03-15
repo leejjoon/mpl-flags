@@ -24,12 +24,8 @@ class Flags:
 
         return d
 
-    def show_flag(self, ax, country_code):
-
-        if country_code not in self._j:
-            return
-
-        _, _, xmax, ymax = self._j[country_code]["viewbox"]
+    def _draw(self, country_code, add_artist, scale=1):
+        # _, _, xmax, ymax = self._j[country_code]["viewbox"]
         arr = self.get_arr(country_code)
         split_index = arr["split_index"]
 
@@ -37,15 +33,39 @@ class Flags:
         codes = np.split(arr["codes"], split_index)
         path_prop_list = []
         for v, c, fc in zip(vertices, codes, arr["facecolors"]):
-            p = Path(vertices=v, codes=c)
+            p = Path(vertices=v*scale, codes=c)
             prop = dict(facecolor=fc)
             path_prop_list.append((p, prop))
 
         for p, prop in path_prop_list:
             patch = PathPatch(p, ec="none", **prop)
-            ax.add_patch(patch)
+            add_artist(patch)
+
+    def get_drawing_area(self, country_code, ax, wmax=np.inf, hmax=np.inf):
+
+        _, _, w, h = self._j[country_code]["viewbox"]
+
+        if wmax == np.inf and hmax == np.inf:
+            scale = 1
+        else:
+            scale = min([wmax / w, hmax / w])
+
+        from matplotlib.offsetbox import DrawingArea
+        da = DrawingArea(scale*w, scale*h)
+
+        self._draw(country_code, da.add_artist, scale)
+
+        return da
+
+    def show_flag(self, country_code, ax):
+
+        if country_code not in self._j:
+            return
+
+        self._draw(country_code, ax.add_patch)
 
         ax.set_aspect(1)
+        _, _, xmax, ymax = self._j[country_code]["viewbox"]
         ax.set(xlim=(0, xmax), ylim=(0, ymax))
 
 
