@@ -152,6 +152,23 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# mac stuff
+.DS_store
+
+# editors
+
+## vim
+[._]*.s[a-v][a-z]
+!*.svg  # comment out if you don't need vector files
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+[._]*.un~
+
+## vscode
+.vscode
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
