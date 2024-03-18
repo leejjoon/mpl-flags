@@ -7,6 +7,9 @@ help you get started.
 
 https://leejjoon.github.io/jjl-mpl-blog/posts/mpl-20240318-mpl-flags/
 
+<img src="https://leejjoon.github.io/jjl-mpl-blog/posts/mpl-20240318-mpl-flags/index_files/figure-html/cell-3-output-1.png" width="400px"></img>
+
+
 ## Flags data
 
 `mpl-flags` contains the flag data in vector format readily usable with
@@ -22,6 +25,18 @@ The flag data is collected from various sources. Currently, it includes flags fr
 3. flag-icons : https://github.com/lipis/flag-icons
 
 Different sources can render the flags differently.
+
+### No gradient support
+
+Some flags includes gradient, which is currently not supported by `mpl-flags`,
+so they will result in incorrect details.
+
+ - noto: ['BZ', 'EC', 'FK', 'GS', 'GT', 'MX', 'NI', 'PM', 'TA', 'VG']
+ - 4x3, 1x1 : ['BZ', 'FK', 'GS', 'GT', 'MX', 'NI', 'VG']
+
+Check the above post for the impact of no gradient in these flags.
+
+The gradient support is work in progress.
 
 ## Usage
 
