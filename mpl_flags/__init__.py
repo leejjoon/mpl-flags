@@ -8,6 +8,6 @@
 # See https://github.com/pypa/setuptools/issues/1724#issuecomment-627241822
 from ._version import __version__
 
-from .flags import Flags, get_all_country_codes
+from .flags import Flags
 
-__all__ = ["Flags", "get_all_country_codes"]
+__all__ = ["Flags"]

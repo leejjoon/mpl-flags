@@ -106,17 +106,38 @@ class Flags:
             # ax.set_axis_off()
 
 
-def get_all_country_codes():
-    all_country_codes = set()
-    for kind in ["circle", "noto_original", "1x1", "4x3"]:
+    @classmethod
+    def get_flags_summary(cls):
+
+        kinds = cls.get_available_kinds()
+
+        jj = {}
+        for kind in kinds:
             fn_json = pkg_resources.resource_filename(__name__, f"data/flags_{kind}.json")
             j = json.load(open(fn_json, "r"))
-            all_country_codes.update(j.keys())
+            jj[kind] = j
 
-    if False:
-        for kind in ["circle", "noto_original", "1x1", "4x3"]:
-            j = json.load(open(f"data/flags_{kind}.json", "r"))
-            vv = all_country_flags.difference(j.keys())
-            print(vv)
+        all_country_codes = set()
+        for kind in kinds:
+            all_country_codes.update(jj[kind].keys())
 
-    return all_country_codes
+        missing_codes = {}
+        for kind in kinds:
+            j = jj[kind]
+            missing_codes[kind] = all_country_codes.difference(j.keys())
+
+        return list(sorted(all_country_codes)), missing_codes
+
+    @classmethod
+    def print_flags_summary(cls):
+
+        all_country_codes, missing_codes = cls.get_flags_summary()
+        print("[All Codes]")
+        while all_country_codes:
+            print(" ".join(all_country_codes[:25]))
+            all_country_codes = all_country_codes[25:]
+
+        print("")
+        print("[Missing Codes]")
+        for kind, missing in missing_codes.items():
+            print(f"{kind}: ", " ".join(missing))
