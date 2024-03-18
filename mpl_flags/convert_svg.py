@@ -82,13 +82,15 @@ flags_info = [
         # The original svg uses mask to make it circular. We replace the mask
         # directive to clip path, which is supported by SVGMplPathIterator.
         root=Path("../third_party/circle-flags/flags"),
-        get_flag_name=_flag_name_from_file_namem,
+        get_flag_name=_flag_name_from_file_name,
         preprocess=replace_mask_to_clippath
     )
 ]
 
+from tqdm import tqdm
 
-def convert(kind, root, get_flag_name, preprocess=None):
+def convert(kind, root, get_flag_name, preprocess=None, output_path="."):
+    output_path = Path(output_path)
 
     codes = []
     for fn in sorted(root.glob("*.svg")):
@@ -97,8 +99,7 @@ def convert(kind, root, get_flag_name, preprocess=None):
             codes.append((code, fn))
 
     by_codes = {}
-    for code, fn in codes:
-        print(code)
+    for code, fn in tqdm(codes, desc=kind):
         if preprocess is None:
             fio = open(fn, "rb")
         else:
@@ -138,20 +139,29 @@ def convert(kind, root, get_flag_name, preprocess=None):
 
     # print("with gradient:", sorted(with_gradient))
 
-    np.savez(f"flags_{kind}.npz", **master_dict)
+    np.savez(output_path / f"flags_{kind}.npz", **master_dict)
 
     master_json = {}
     for country, c in by_codes.items():
         master_json[country] = dict(viewbox=c["viewbox"],
                                     filename=c["filename"].as_posix())
-    json.dump(master_json, open(f"flags_{kind}.json", "w"), indent=2)
+    json.dump(master_json, open(output_path / f"flags_{kind}.json", "w"), indent=2)
 
 
-def main():
+def main(output_path):
+    output_path = Path(output_path)
+    output_path.mkdir(parents=True, exist_ok=True)
+
+    # for info in [info for info in flags_info if info["kind"] in ["circle", "simple"]]:
     for info in flags_info:
         convert(info["kind"], info["root"], info["get_flag_name"],
-                preprocess=info.get("preprocess", None))
+                preprocess=info.get("preprocess", None),
+                output_path=output_path)
+
+    j = [info["kind"] for info in flags_info]
+    json.dump(j, open(output_path / f"flags.json", "w"), indent=2)
 
 
 if __name__ == '__main__':
-    main()
+    output_path = "data_tmp"
+    main(output_path)

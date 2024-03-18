@@ -7,7 +7,6 @@ from mpl_flags import get_all_country_codes, Flags
 
 
 def prepare_axes(fig, ncol, nrow, nkind, nax=None):
-    fig.clf()
 
     if nax is None:
         nax = ncol * nrow
@@ -38,6 +37,7 @@ def show_flags(country_codes, kinds, ncol, nrow):
     while country_codes:
 
         fig = plt.figure(figsize=(8, 10))
+        fig.clf()
         axs = prepare_axes(fig, ncol, nrow, nkind, nax=len(country_codes))
 
         for ax3, country_code in zip(axs, country_codes):

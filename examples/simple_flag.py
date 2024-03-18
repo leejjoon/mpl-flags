@@ -10,7 +10,7 @@ flags.show_flag("KR", ax0)
 
 
 ax1 = axs[1]
-da = flags.get_drawing_area("KR", ax1, wmax=100)
+da = flags.get_drawing_area("KR", wmax=100)
 
 from matplotlib.offsetbox import AnnotationBbox
 ab = AnnotationBbox(da, (0.5, 0.5), frameon=True,
