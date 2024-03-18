@@ -2,6 +2,10 @@
 
 National flags for Matplotlib.
 
+There is no good documentation available yet. Hopefully, this blog post will
+help you get started.
+
+https://leejjoon.github.io/jjl-mpl-blog/posts/mpl-20240318-mpl-flags/
 
 ## Flags data
 
