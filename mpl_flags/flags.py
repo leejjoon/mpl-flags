@@ -101,9 +101,12 @@ class Flags:
         axs = inner_grid.subplots()  # Create all subplots for the inner grid.
 
         for ax, flags in zip(axs, flagss):
-            flags.show_flag(ax, country_code)
+            try:
+                flags.show_flag(ax, country_code)
+            except KeyError:
+                pass
             ax.set(xticks=[], yticks=[], title=f"{flags._kind}")
-            # ax.set_axis_off()
+            ax.set_aspect(1)
 
 
     @classmethod
