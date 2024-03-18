@@ -1,0 +1,2324 @@
+{
+  "AC": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/AC.svg"
+  },
+  "AD": {
+    "viewbox": [
+      0.0,
+      0.0,
+      750.0,
+      525.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/AD.svg"
+  },
+  "AE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/AE.svg"
+  },
+  "AF": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      224.775
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/AF.svg"
+  },
+  "AG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      517.5,
+      345.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/AG.svg"
+  },
+  "AI": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/AI.svg"
+  },
+  "AL": {
+    "viewbox": [
+      0.0,
+      0.0,
+      525.0,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/AL.svg"
+  },
+  "AM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/AM.svg"
+  },
+  "AO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/AO.svg"
+  },
+  "AQ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      558.0,
+      372.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/AQ.svg"
+  },
+  "AR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      600.0,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/AR.svg"
+  },
+  "AS": {
+    "viewbox": [
+      0.0,
+      0.0,
+      750.0,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/AS.svg"
+  },
+  "AT": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/AT.svg"
+  },
+  "AU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      960.0,
+      480.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/AU.svg"
+  },
+  "AW": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/AW.svg"
+  },
+  "AX": {
+    "viewbox": [
+      0.0,
+      0.0,
+      390.0,
+      255.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/AX.svg"
+  },
+  "AZ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/AZ.svg"
+  },
+  "BA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      600.0,
+      300.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BA.svg"
+  },
+  "BB": {
+    "viewbox": [
+      0.0,
+      0.0,
+      1125.0,
+      750.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BB.svg"
+  },
+  "BD": {
+    "viewbox": [
+      0.0,
+      0.0,
+      375.0,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BD.svg"
+  },
+  "BE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      292.5
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BE.svg"
+  },
+  "BF": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BF.svg"
+  },
+  "BG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      750.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BG.svg"
+  },
+  "BH": {
+    "viewbox": [
+      0.0,
+      0.0,
+      1125.0,
+      675.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BH.svg"
+  },
+  "BI": {
+    "viewbox": [
+      0.0,
+      0.0,
+      375.0,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BI.svg"
+  },
+  "BJ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BJ.svg"
+  },
+  "BL": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BL.svg"
+  },
+  "BM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      750.0,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BM.svg"
+  },
+  "BN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      1080.0,
+      540.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BN.svg"
+  },
+  "BO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      825.0,
+      562.5
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BO.svg"
+  },
+  "BQ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      300.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BQ.svg"
+  },
+  "BR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      540.0,
+      378.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BR.svg"
+  },
+  "BS": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BS.svg"
+  },
+  "BT": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BT.svg"
+  },
+  "BV": {
+    "viewbox": [
+      0.0,
+      0.0,
+      825.0,
+      600.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BV.svg"
+  },
+  "BW": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      600.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BW.svg"
+  },
+  "BY": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      337.5
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BY.svg"
+  },
+  "BZ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      562.5,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/BZ.svg"
+  },
+  "CA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      750.0,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/CA.svg"
+  },
+  "CC": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/CC.svg"
+  },
+  "CD": {
+    "viewbox": [
+      0.0,
+      0.0,
+      600.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/CD.svg"
+  },
+  "CF": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/CF.svg"
+  },
+  "CG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      300.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/CG.svg"
+  },
+  "CH": {
+    "viewbox": [
+      0.0,
+      0.0,
+      750.0,
+      750.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/CH.svg"
+  },
+  "CI": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/CI.svg"
+  },
+  "CK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/CK.svg"
+  },
+  "CL": {
+    "viewbox": [
+      0.0,
+      0.0,
+      1125.0,
+      750.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/CL.svg"
+  },
+  "CM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      300.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/CM.svg"
+  },
+  "CN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/CN.svg"
+  },
+  "CO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/CO.svg"
+  },
+  "CP": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/CP.svg"
+  },
+  "CR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      750.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/CR.svg"
+  },
+  "CU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      600.0,
+      300.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/CU.svg"
+  },
+  "CV": {
+    "viewbox": [
+      0.0,
+      0.0,
+      382.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/CV.svg"
+  },
+  "CW": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/CW.svg"
+  },
+  "CX": {
+    "viewbox": [
+      0.0,
+      0.0,
+      750.0,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/CX.svg"
+  },
+  "CY": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/CY.svg"
+  },
+  "CZ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/CZ.svg"
+  },
+  "DE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      750.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/DE.svg"
+  },
+  "DG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/DG.svg"
+  },
+  "DJ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      300.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/DJ.svg"
+  },
+  "DK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      555.0,
+      420.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/DK.svg"
+  },
+  "DM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/DM.svg"
+  },
+  "DO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      562.5,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/DO.svg"
+  },
+  "DZ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/DZ.svg"
+  },
+  "EA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      562.5,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/EA.svg"
+  },
+  "EC": {
+    "viewbox": [
+      0.0,
+      0.0,
+      1080.0,
+      720.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/EC.svg"
+  },
+  "EE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      742.5,
+      472.5
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/EE.svg"
+  },
+  "EG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/EG.svg"
+  },
+  "EH": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/EH.svg"
+  },
+  "ER": {
+    "viewbox": [
+      0.0,
+      0.0,
+      750.0,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/ER.svg"
+  },
+  "ES": {
+    "viewbox": [
+      0.0,
+      0.0,
+      562.5,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/ES.svg"
+  },
+  "ET": {
+    "viewbox": [
+      0.0,
+      0.0,
+      540.0,
+      270.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/ET.svg"
+  },
+  "EU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      607.5,
+      405.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/EU.svg"
+  },
+  "FI": {
+    "viewbox": [
+      0.0,
+      0.0,
+      1350.0,
+      825.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/FI.svg"
+  },
+  "FJ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/FJ.svg"
+  },
+  "FK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/FK.svg"
+  },
+  "FM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      570.0,
+      300.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/FM.svg"
+  },
+  "FO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      825.0,
+      600.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/FO.svg"
+  },
+  "FR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/FR.svg"
+  },
+  "GA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      300.0,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/GA.svg"
+  },
+  "GB": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/GB.svg"
+  },
+  "GD": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      270.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/GD.svg"
+  },
+  "GE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/GE.svg"
+  },
+  "GF": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/GF.svg"
+  },
+  "GG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/GG.svg"
+  },
+  "GH": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/GH.svg"
+  },
+  "GI": {
+    "viewbox": [
+      0.0,
+      0.0,
+      750.0,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/GI.svg"
+  },
+  "GL": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/GL.svg"
+  },
+  "GM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      300.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/GM.svg"
+  },
+  "GN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/GN.svg"
+  },
+  "GP": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/GP.svg"
+  },
+  "GQ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      600.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/GQ.svg"
+  },
+  "GR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      300.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/GR.svg"
+  },
+  "GS": {
+    "viewbox": [
+      0.0,
+      0.0,
+      562.5,
+      281.25
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/GS.svg"
+  },
+  "GT": {
+    "viewbox": [
+      0.0,
+      0.0,
+      720.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/GT.svg"
+  },
+  "GU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      615.11811,
+      330.23622
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/GU.svg"
+  },
+  "GW": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/GW.svg"
+  },
+  "GY": {
+    "viewbox": [
+      0.0,
+      0.0,
+      375.0,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/GY.svg"
+  },
+  "HK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/HK.svg"
+  },
+  "HM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      960.0,
+      480.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/HM.svg"
+  },
+  "HN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      750.0,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/HN.svg"
+  },
+  "HR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/HR.svg"
+  },
+  "HT": {
+    "viewbox": [
+      0.0,
+      0.0,
+      375.0,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/HT.svg"
+  },
+  "HU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/HU.svg"
+  },
+  "IC": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      300.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/IC.svg"
+  },
+  "ID": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/ID.svg"
+  },
+  "IE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/IE.svg"
+  },
+  "IL": {
+    "viewbox": [
+      0.0,
+      0.0,
+      495.0,
+      360.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/IL.svg"
+  },
+  "IM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/IM.svg"
+  },
+  "IN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      1012.5,
+      675.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/IN.svg"
+  },
+  "IO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/IO.svg"
+  },
+  "IQ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      308.25,
+      205.5
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/IQ.svg"
+  },
+  "IR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      472.5,
+      270.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/IR.svg"
+  },
+  "IS": {
+    "viewbox": [
+      0.0,
+      0.0,
+      600.0,
+      432.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/IS.svg"
+  },
+  "IT": {
+    "viewbox": [
+      0.0,
+      0.0,
+      1125.0,
+      750.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/IT.svg"
+  },
+  "JE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      750.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/JE.svg"
+  },
+  "JM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/JM.svg"
+  },
+  "JO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      630.0,
+      315.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/JO.svg"
+  },
+  "JP": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/JP.svg"
+  },
+  "KE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/KE.svg"
+  },
+  "KG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      562.5,
+      337.5
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/KG.svg"
+  },
+  "KH": {
+    "viewbox": [
+      0.0,
+      0.0,
+      468.75,
+      300.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/KH.svg"
+  },
+  "KI": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/KI.svg"
+  },
+  "KM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      750.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/KM.svg"
+  },
+  "KN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      562.5,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/KN.svg"
+  },
+  "KP": {
+    "viewbox": [
+      0.0,
+      0.0,
+      1200.0,
+      600.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/KP.svg"
+  },
+  "KR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/KR.svg"
+  },
+  "KW": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/KW.svg"
+  },
+  "KY": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/KY.svg"
+  },
+  "KZ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/KZ.svg"
+  },
+  "LA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      300.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/LA.svg"
+  },
+  "LB": {
+    "viewbox": [
+      0.0,
+      0.0,
+      562.5,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/LB.svg"
+  },
+  "LC": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/LC.svg"
+  },
+  "LI": {
+    "viewbox": [
+      0.0,
+      0.0,
+      750.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/LI.svg"
+  },
+  "LK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/LK.svg"
+  },
+  "LR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      855.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/LR.svg"
+  },
+  "LS": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/LS.svg"
+  },
+  "LT": {
+    "viewbox": [
+      0.0,
+      0.0,
+      375.0,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/LT.svg"
+  },
+  "LU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      750.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/LU.svg"
+  },
+  "LV": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/LV.svg"
+  },
+  "LY": {
+    "viewbox": [
+      0.0,
+      0.0,
+      720.0,
+      360.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/LY.svg"
+  },
+  "MA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MA.svg"
+  },
+  "MC": {
+    "viewbox": [
+      0.0,
+      0.0,
+      562.5,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MC.svg"
+  },
+  "MD": {
+    "viewbox": [
+      0.0,
+      0.0,
+      1350.0,
+      675.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MD.svg"
+  },
+  "ME": {
+    "viewbox": [
+      0.0,
+      0.0,
+      480.0,
+      240.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/ME.svg"
+  },
+  "MF": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MF.svg"
+  },
+  "MG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MG.svg"
+  },
+  "MH": {
+    "viewbox": [
+      0.0,
+      0.0,
+      427.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MH.svg"
+  },
+  "MK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      1050.0,
+      525.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MK.svg"
+  },
+  "ML": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/ML.svg"
+  },
+  "MM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      1350.0,
+      900.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MM.svg"
+  },
+  "MN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      3600.0,
+      1800.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MN.svg"
+  },
+  "MO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MO.svg"
+  },
+  "MP": {
+    "viewbox": [
+      0.0,
+      0.0,
+      750.0,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MP.svg"
+  },
+  "MQ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      90.0,
+      45.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MQ.svg"
+  },
+  "MR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MR.svg"
+  },
+  "MS": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MS.svg"
+  },
+  "MT": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MT.svg"
+  },
+  "MU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MU.svg"
+  },
+  "MV": {
+    "viewbox": [
+      0.0,
+      0.0,
+      540.0,
+      360.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MV.svg"
+  },
+  "MW": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MW.svg"
+  },
+  "MX": {
+    "viewbox": [
+      0.0,
+      0.0,
+      630.0,
+      360.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MX.svg"
+  },
+  "MY": {
+    "viewbox": [
+      0.0,
+      0.0,
+      2100.0,
+      1050.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MY.svg"
+  },
+  "MZ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/MZ.svg"
+  },
+  "NA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/NA.svg"
+  },
+  "NC": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      337.5
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/NC.svg"
+  },
+  "NE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      525.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/NE.svg"
+  },
+  "NF": {
+    "viewbox": [
+      0.0,
+      0.0,
+      690.0,
+      345.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/NF.svg"
+  },
+  "NG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      600.0,
+      300.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/NG.svg"
+  },
+  "NI": {
+    "viewbox": [
+      0.0,
+      0.0,
+      750.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/NI.svg"
+  },
+  "NL": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/NL.svg"
+  },
+  "NO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      825.0,
+      600.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/NO.svg"
+  },
+  "NP": {
+    "viewbox": [
+      0.0,
+      0.0,
+      544.5,
+      663.75
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/NP.svg"
+  },
+  "NR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/NR.svg"
+  },
+  "NU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/NU.svg"
+  },
+  "NZ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/NZ.svg"
+  },
+  "OM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/OM.svg"
+  },
+  "PA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/PA.svg"
+  },
+  "PE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/PE.svg"
+  },
+  "PF": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      300.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/PF.svg"
+  },
+  "PG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      337.5
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/PG.svg"
+  },
+  "PH": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      337.5
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/PH.svg"
+  },
+  "PK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/PK.svg"
+  },
+  "PL": {
+    "viewbox": [
+      0.0,
+      0.0,
+      960.0,
+      600.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/PL.svg"
+  },
+  "PM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/PM.svg"
+  },
+  "PN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/PN.svg"
+  },
+  "PR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/PR.svg"
+  },
+  "PS": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/PS.svg"
+  },
+  "PT": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      300.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/PT.svg"
+  },
+  "PW": {
+    "viewbox": [
+      0.0,
+      0.0,
+      600.0,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/PW.svg"
+  },
+  "PY": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      247.5
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/PY.svg"
+  },
+  "QA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      1050.0,
+      412.5
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/QA.svg"
+  },
+  "RE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/RE.svg"
+  },
+  "RO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      300.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/RO.svg"
+  },
+  "RS": {
+    "viewbox": [
+      0.0,
+      0.0,
+      1012.5,
+      675.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/RS.svg"
+  },
+  "RU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/RU.svg"
+  },
+  "RW": {
+    "viewbox": [
+      0.0,
+      0.0,
+      810.0,
+      540.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/RW.svg"
+  },
+  "SA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      562.5,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/SA.svg"
+  },
+  "SB": {
+    "viewbox": [
+      0.0,
+      0.0,
+      600.0,
+      300.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/SB.svg"
+  },
+  "SC": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      337.5
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/SC.svg"
+  },
+  "SD": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/SD.svg"
+  },
+  "SE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      1200.0,
+      750.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/SE.svg"
+  },
+  "SG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      3240.0,
+      2160.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/SG.svg"
+  },
+  "SH": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/SH.svg"
+  },
+  "SI": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/SI.svg"
+  },
+  "SJ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      825.0,
+      600.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/SJ.svg"
+  },
+  "SK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/SK.svg"
+  },
+  "SL": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/SL.svg"
+  },
+  "SM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      600.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/SM.svg"
+  },
+  "SN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/SN.svg"
+  },
+  "SO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/SO.svg"
+  },
+  "SR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/SR.svg"
+  },
+  "SS": {
+    "viewbox": [
+      0.0,
+      0.0,
+      750.0,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/SS.svg"
+  },
+  "ST": {
+    "viewbox": [
+      0.0,
+      0.0,
+      2100.0,
+      1050.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/ST.svg"
+  },
+  "SV": {
+    "viewbox": [
+      0.0,
+      0.0,
+      798.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/SV.svg"
+  },
+  "SX": {
+    "viewbox": [
+      0.0,
+      0.0,
+      506.25,
+      337.5
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/SX.svg"
+  },
+  "SY": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/SY.svg"
+  },
+  "SZ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/SZ.svg"
+  },
+  "TA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      750.0,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/TA.svg"
+  },
+  "TC": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/TC.svg"
+  },
+  "TD": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/TD.svg"
+  },
+  "TF": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      300.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/TF.svg"
+  },
+  "TG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      606.75,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/TG.svg"
+  },
+  "TH": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/TH.svg"
+  },
+  "TJ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/TJ.svg"
+  },
+  "TK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      1350.0,
+      675.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/TK.svg"
+  },
+  "TL": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      337.5
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/TL.svg"
+  },
+  "TM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/TM.svg"
+  },
+  "TN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      600.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/TN.svg"
+  },
+  "TO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      720.0,
+      360.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/TO.svg"
+  },
+  "TR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      600.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/TR.svg"
+  },
+  "TT": {
+    "viewbox": [
+      0.0,
+      0.0,
+      600.0,
+      360.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/TT.svg"
+  },
+  "TV": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/TV.svg"
+  },
+  "TW": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/TW.svg"
+  },
+  "TZ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/TZ.svg"
+  },
+  "UA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      600.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/UA.svg"
+  },
+  "UG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/UG.svg"
+  },
+  "UM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      926.25,
+      487.5
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/UM.svg"
+  },
+  "UN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      600.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/UN.svg"
+  },
+  "US": {
+    "viewbox": [
+      0.0,
+      0.0,
+      926.25,
+      487.5
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/US.svg"
+  },
+  "UY": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/UY.svg"
+  },
+  "UZ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      375.0,
+      187.5
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/UZ.svg"
+  },
+  "VA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      375.0,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/VA.svg"
+  },
+  "VC": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/VC.svg"
+  },
+  "VE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/VE.svg"
+  },
+  "VG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      900.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/VG.svg"
+  },
+  "VI": {
+    "viewbox": [
+      0.0,
+      0.0,
+      956.6925,
+      637.7955
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/VI.svg"
+  },
+  "VN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/VN.svg"
+  },
+  "VU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      450.0,
+      270.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/VU.svg"
+  },
+  "WF": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/WF.svg"
+  },
+  "WS": {
+    "viewbox": [
+      0.0,
+      0.0,
+      2160.0,
+      1080.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/WS.svg"
+  },
+  "XK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      630.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/XK.svg"
+  },
+  "YE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      337.5,
+      225.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/YE.svg"
+  },
+  "YT": {
+    "viewbox": [
+      0.0,
+      0.0,
+      562.5,
+      375.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/YT.svg"
+  },
+  "ZA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      675.0,
+      450.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/ZA.svg"
+  },
+  "ZM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      1575.0,
+      1050.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/ZM.svg"
+  },
+  "ZW": {
+    "viewbox": [
+      0.0,
+      0.0,
+      630.0,
+      315.0
+    ],
+    "filename": "../third_party/noto-emoji/third_party/region-flags/svg/ZW.svg"
+  }
+}

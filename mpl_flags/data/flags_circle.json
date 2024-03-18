@@ -1,0 +1,2387 @@
+{
+  "AC": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ac.svg"
+  },
+  "AD": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ad.svg"
+  },
+  "AE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ae.svg"
+  },
+  "AF": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/af.svg"
+  },
+  "AG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ag.svg"
+  },
+  "AI": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ai.svg"
+  },
+  "AL": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/al.svg"
+  },
+  "AM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/am.svg"
+  },
+  "AN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/an.svg"
+  },
+  "AO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ao.svg"
+  },
+  "AQ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/aq.svg"
+  },
+  "AR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ar.svg"
+  },
+  "AS": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/as.svg"
+  },
+  "AT": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/at.svg"
+  },
+  "AU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/au.svg"
+  },
+  "AW": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/aw.svg"
+  },
+  "AX": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ax.svg"
+  },
+  "AZ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/az.svg"
+  },
+  "BA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ba.svg"
+  },
+  "BB": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/bb.svg"
+  },
+  "BD": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/bd.svg"
+  },
+  "BE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/be.svg"
+  },
+  "BF": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/bf.svg"
+  },
+  "BG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/bg.svg"
+  },
+  "BH": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/bh.svg"
+  },
+  "BI": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/bi.svg"
+  },
+  "BJ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/bj.svg"
+  },
+  "BL": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/bl.svg"
+  },
+  "BM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/bm.svg"
+  },
+  "BN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/bn.svg"
+  },
+  "BO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/bo.svg"
+  },
+  "BQ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/bq.svg"
+  },
+  "BR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/br.svg"
+  },
+  "BS": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/bs.svg"
+  },
+  "BT": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/bt.svg"
+  },
+  "BV": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/bv.svg"
+  },
+  "BW": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/bw.svg"
+  },
+  "BY": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/by.svg"
+  },
+  "BZ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/bz.svg"
+  },
+  "CA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ca.svg"
+  },
+  "CC": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/cc.svg"
+  },
+  "CD": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/cd.svg"
+  },
+  "CF": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/cf.svg"
+  },
+  "CG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/cg.svg"
+  },
+  "CH": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ch.svg"
+  },
+  "CI": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ci.svg"
+  },
+  "CK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ck.svg"
+  },
+  "CL": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/cl.svg"
+  },
+  "CM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/cm.svg"
+  },
+  "CN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/cn.svg"
+  },
+  "CO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/co.svg"
+  },
+  "CP": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/cp.svg"
+  },
+  "CQ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/cq.svg"
+  },
+  "CR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/cr.svg"
+  },
+  "CU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/cu.svg"
+  },
+  "CV": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/cv.svg"
+  },
+  "CW": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/cw.svg"
+  },
+  "CX": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/cx.svg"
+  },
+  "CY": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/cy.svg"
+  },
+  "CZ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/cz.svg"
+  },
+  "DE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/de.svg"
+  },
+  "DG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/dg.svg"
+  },
+  "DJ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/dj.svg"
+  },
+  "DK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/dk.svg"
+  },
+  "DM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/dm.svg"
+  },
+  "DO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/do.svg"
+  },
+  "DZ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/dz.svg"
+  },
+  "EA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ea.svg"
+  },
+  "EC": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ec.svg"
+  },
+  "EE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ee.svg"
+  },
+  "EG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/eg.svg"
+  },
+  "EH": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/eh.svg"
+  },
+  "ER": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/er.svg"
+  },
+  "ES": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/es.svg"
+  },
+  "ET": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/et.svg"
+  },
+  "EU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/eu.svg"
+  },
+  "FI": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/fi.svg"
+  },
+  "FJ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/fj.svg"
+  },
+  "FK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/fk.svg"
+  },
+  "FM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/fm.svg"
+  },
+  "FO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/fo.svg"
+  },
+  "FR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/fr.svg"
+  },
+  "FX": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/fx.svg"
+  },
+  "GA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ga.svg"
+  },
+  "GB": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/gb.svg"
+  },
+  "GD": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/gd.svg"
+  },
+  "GE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ge.svg"
+  },
+  "GF": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/gf.svg"
+  },
+  "GG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/gg.svg"
+  },
+  "GH": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/gh.svg"
+  },
+  "GI": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/gi.svg"
+  },
+  "GL": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/gl.svg"
+  },
+  "GM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/gm.svg"
+  },
+  "GN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/gn.svg"
+  },
+  "GP": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/gp.svg"
+  },
+  "GQ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/gq.svg"
+  },
+  "GR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/gr.svg"
+  },
+  "GS": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/gs.svg"
+  },
+  "GT": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/gt.svg"
+  },
+  "GU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/gu.svg"
+  },
+  "GW": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/gw.svg"
+  },
+  "GY": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/gy.svg"
+  },
+  "HK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/hk.svg"
+  },
+  "HM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/hm.svg"
+  },
+  "HN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/hn.svg"
+  },
+  "HR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/hr.svg"
+  },
+  "HT": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ht.svg"
+  },
+  "HU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/hu.svg"
+  },
+  "IC": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ic.svg"
+  },
+  "ID": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/id.svg"
+  },
+  "IE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ie.svg"
+  },
+  "IL": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/il.svg"
+  },
+  "IM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/im.svg"
+  },
+  "IN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/in.svg"
+  },
+  "IO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/io.svg"
+  },
+  "IQ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/iq.svg"
+  },
+  "IR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ir.svg"
+  },
+  "IS": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/is.svg"
+  },
+  "IT": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/it.svg"
+  },
+  "JE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/je.svg"
+  },
+  "JM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/jm.svg"
+  },
+  "JO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/jo.svg"
+  },
+  "JP": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/jp.svg"
+  },
+  "KE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ke.svg"
+  },
+  "KG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/kg.svg"
+  },
+  "KH": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/kh.svg"
+  },
+  "KI": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ki.svg"
+  },
+  "KM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/km.svg"
+  },
+  "KN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/kn.svg"
+  },
+  "KP": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/kp.svg"
+  },
+  "KR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/kr.svg"
+  },
+  "KW": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/kw.svg"
+  },
+  "KY": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ky.svg"
+  },
+  "KZ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/kz.svg"
+  },
+  "LA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/la.svg"
+  },
+  "LB": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/lb.svg"
+  },
+  "LC": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/lc.svg"
+  },
+  "LI": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/li.svg"
+  },
+  "LK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/lk.svg"
+  },
+  "LR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/lr.svg"
+  },
+  "LS": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ls.svg"
+  },
+  "LT": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/lt.svg"
+  },
+  "LU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/lu.svg"
+  },
+  "LV": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/lv.svg"
+  },
+  "LY": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ly.svg"
+  },
+  "MA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ma.svg"
+  },
+  "MC": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/mc.svg"
+  },
+  "MD": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/md.svg"
+  },
+  "ME": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/me.svg"
+  },
+  "MF": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/mf.svg"
+  },
+  "MG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/mg.svg"
+  },
+  "MH": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/mh.svg"
+  },
+  "MK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/mk.svg"
+  },
+  "ML": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ml.svg"
+  },
+  "MM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/mm.svg"
+  },
+  "MN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/mn.svg"
+  },
+  "MO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/mo.svg"
+  },
+  "MP": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/mp.svg"
+  },
+  "MQ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/mq.svg"
+  },
+  "MR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/mr.svg"
+  },
+  "MS": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ms.svg"
+  },
+  "MT": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/mt.svg"
+  },
+  "MU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/mu.svg"
+  },
+  "MV": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/mv.svg"
+  },
+  "MW": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/mw.svg"
+  },
+  "MX": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/mx.svg"
+  },
+  "MY": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/my.svg"
+  },
+  "MZ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/mz.svg"
+  },
+  "NA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/na.svg"
+  },
+  "NC": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/nc.svg"
+  },
+  "NE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ne.svg"
+  },
+  "NF": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/nf.svg"
+  },
+  "NG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ng.svg"
+  },
+  "NI": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ni.svg"
+  },
+  "NL": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/nl.svg"
+  },
+  "NO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/no.svg"
+  },
+  "NP": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/np.svg"
+  },
+  "NR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/nr.svg"
+  },
+  "NU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/nu.svg"
+  },
+  "NZ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/nz.svg"
+  },
+  "OM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/om.svg"
+  },
+  "PA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/pa.svg"
+  },
+  "PE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/pe.svg"
+  },
+  "PF": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/pf.svg"
+  },
+  "PG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/pg.svg"
+  },
+  "PH": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ph.svg"
+  },
+  "PK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/pk.svg"
+  },
+  "PL": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/pl.svg"
+  },
+  "PM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/pm.svg"
+  },
+  "PN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/pn.svg"
+  },
+  "PR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/pr.svg"
+  },
+  "PS": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ps.svg"
+  },
+  "PT": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/pt.svg"
+  },
+  "PW": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/pw.svg"
+  },
+  "PY": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/py.svg"
+  },
+  "QA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/qa.svg"
+  },
+  "RE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/re.svg"
+  },
+  "RO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ro.svg"
+  },
+  "RS": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/rs.svg"
+  },
+  "RU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ru.svg"
+  },
+  "RW": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/rw.svg"
+  },
+  "SA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/sa.svg"
+  },
+  "SB": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/sb.svg"
+  },
+  "SC": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/sc.svg"
+  },
+  "SD": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/sd.svg"
+  },
+  "SE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/se.svg"
+  },
+  "SG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/sg.svg"
+  },
+  "SH": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/sh.svg"
+  },
+  "SI": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/si.svg"
+  },
+  "SJ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/sj.svg"
+  },
+  "SK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/sk.svg"
+  },
+  "SL": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/sl.svg"
+  },
+  "SM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/sm.svg"
+  },
+  "SN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/sn.svg"
+  },
+  "SO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/so.svg"
+  },
+  "SR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/sr.svg"
+  },
+  "SS": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ss.svg"
+  },
+  "ST": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/st.svg"
+  },
+  "SU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/su.svg"
+  },
+  "SV": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/sv.svg"
+  },
+  "SX": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/sx.svg"
+  },
+  "SY": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/sy.svg"
+  },
+  "SZ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/sz.svg"
+  },
+  "TA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ta.svg"
+  },
+  "TC": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/tc.svg"
+  },
+  "TD": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/td.svg"
+  },
+  "TF": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/tf.svg"
+  },
+  "TG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/tg.svg"
+  },
+  "TH": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/th.svg"
+  },
+  "TJ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/tj.svg"
+  },
+  "TK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/tk.svg"
+  },
+  "TL": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/tl.svg"
+  },
+  "TM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/tm.svg"
+  },
+  "TN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/tn.svg"
+  },
+  "TO": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/to.svg"
+  },
+  "TR": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/tr.svg"
+  },
+  "TT": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/tt.svg"
+  },
+  "TV": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/tv.svg"
+  },
+  "TW": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/tw.svg"
+  },
+  "TZ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/tz.svg"
+  },
+  "UA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ua.svg"
+  },
+  "UG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ug.svg"
+  },
+  "UK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/uk.svg"
+  },
+  "UM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/um.svg"
+  },
+  "UN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/un.svg"
+  },
+  "US": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/us.svg"
+  },
+  "UY": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/uy.svg"
+  },
+  "UZ": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/uz.svg"
+  },
+  "VA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/va.svg"
+  },
+  "VC": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/vc.svg"
+  },
+  "VE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ve.svg"
+  },
+  "VG": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/vg.svg"
+  },
+  "VI": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/vi.svg"
+  },
+  "VN": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/vn.svg"
+  },
+  "VU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/vu.svg"
+  },
+  "WF": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/wf.svg"
+  },
+  "WS": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ws.svg"
+  },
+  "XK": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/xk.svg"
+  },
+  "XX": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/xx.svg"
+  },
+  "YE": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/ye.svg"
+  },
+  "YT": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/yt.svg"
+  },
+  "YU": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/yu.svg"
+  },
+  "ZA": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/za.svg"
+  },
+  "ZM": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/zm.svg"
+  },
+  "ZW": {
+    "viewbox": [
+      0.0,
+      0.0,
+      384.0,
+      384.0
+    ],
+    "filename": "../third_party/circle-flags/flags/zw.svg"
+  }
+}
