@@ -6,7 +6,7 @@ flags = Flags("noto_original")
 fig, axs = plt.subplots(1, 2)
 
 ax0 = axs[0]
-flags.show_flag("KR", ax0)
+flags.show_flag(ax0, "KR")
 
 
 ax1 = axs[1]

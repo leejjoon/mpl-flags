@@ -42,7 +42,10 @@ def show_flags(country_codes, kinds, ncol, nrow):
 
         for ax3, country_code in zip(axs, country_codes):
             for ax, flags in zip(ax3, flagss):
-                flags.show_flag(ax, country_code)
+                try:
+                    flags.show_flag(ax, country_code)
+                except KeyError:
+                    print(f"no flag of {country_code}")
                 ax.set_axis_off()
 
             ax3[0].annotate(country_code, (-0.1, 0.5), xycoords="axes fraction",

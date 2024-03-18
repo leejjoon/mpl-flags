@@ -78,7 +78,7 @@ class Flags:
 
         return da
 
-    def show_flag(self, country_code, ax):
+    def show_flag(self, ax, country_code):
 
         if country_code not in self._j:
             raise KeyError(f"{country_code} not in dictionary")
@@ -101,7 +101,7 @@ class Flags:
         axs = inner_grid.subplots()  # Create all subplots for the inner grid.
 
         for ax, flags in zip(axs, flagss):
-            flags.show_flag(country_code, ax)
+            flags.show_flag(ax, country_code)
             ax.set(xticks=[], yticks=[], title=f"{flags._kind}")
             # ax.set_axis_off()
 
