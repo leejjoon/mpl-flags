@@ -1,68 +1,46 @@
-import numpy as np
-import json
-from matplotlib.path import Path
-from matplotlib.patches import PathPatch
+import matplotlib.pyplot as plt
 
-from mpl_flags import get_all_country_codes, Flags
+from mpl_flags import Flags
 
+from iter_axes import iter_axes_rows
 
-def prepare_axes(fig, ncol, nrow, nkind, nax=None):
-
-    if nax is None:
-        nax = ncol * nrow
-
-    gs_root = fig.add_gridspec(1, ncol)
-
-    axs = []
-    for gs in gs_root:
-        gss =  gs.subgridspec(nrow, nkind)
-        for irow in range(nrow):
-            ax3 = [fig.add_subplot(gss[irow, icol]) for icol in range(nkind)]
-            axs.append(ax3)
-            if len(axs) >= nax:
-                return axs
-
-    return axs
-
-
-def show_flags(country_codes, kinds, ncol, nrow):
-    import matplotlib.pyplot as plt
+def show_flags(country_codes, kinds, nrows, ncols, figsize=(8, 10)):
 
     flagss = [Flags(k) for k in kinds]
 
-    ncol = 3
-    nrow = 12
     nkind = len(flagss)
 
-    while country_codes:
+    boundary_prop = dict(ec="k")
 
-        fig = plt.figure(figsize=(8, 10))
-        fig.clf()
-        axs = prepare_axes(fig, ncol, nrow, nkind, nax=len(country_codes))
+    for ax_row, cc in zip(iter_axes_rows(nrows, ncols,
+                                         len(country_codes), nsubcols=nkind,
+                                         figsize=figsize),
+                          country_codes):
 
-        for ax3, country_code in zip(axs, country_codes):
-            for ax, flags in zip(ax3, flagss):
+            for ax, flags in zip(ax_row, flagss):
                 try:
-                    flags.show_flag(ax, country_code)
+                    flags.show_flag(ax, cc, boundary_prop=boundary_prop)
                 except KeyError:
-                    print(f"no flag of {country_code}")
+                    print(f"no flag of {cc}")
                 ax.set_axis_off()
 
-            ax3[0].annotate(country_code, (-0.1, 0.5), xycoords="axes fraction",
-                            annotation_clip=False,
-                            rotation=90, rotation_mode="anchor", va="baseline", ha="center")
-
-        country_codes = country_codes[ncol*nrow:]
-
+            ax_row[0].annotate(cc, (-0.1, 0.5), xycoords="axes fraction",
+                               annotation_clip=False,
+                               rotation=90, rotation_mode="anchor",
+                               va="baseline", ha="center")
 
 def show_all():
+    """
+    Show all available flags in the mpl_flags package.
+    """
     import matplotlib.pyplot as plt
 
-    country_codes = sorted(get_all_country_codes())
+    availabel_country_codes, _ = Flags.get_flags_summary()
+    country_codes = availabel_country_codes
     kinds = ["noto_waved", "4x3", "circle"]
-    ncol = 3
-    nrow = 12
-    show_flags(country_codes, kinds, ncol, nrow)
+    ncols = 3
+    nrows = 12
+    show_flags(country_codes, kinds, nrows, ncols)
 
     plt.show()
 
